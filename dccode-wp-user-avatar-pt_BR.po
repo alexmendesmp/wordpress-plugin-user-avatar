@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-10-29 00:30-0200\n"
+"PO-Revision-Date: 2015-12-14 16:36-0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: languages/dccode-wp-user-avatar-pt_BR.po\n"
+"X-Poedit-SearchPath-1: dccode-user-avatar.php\n"
+
+#: dccode-user-avatar.php:42
+msgid "Sorry. We were not able to create necessary folder for the avatar images"
+msgstr "Não foi possível criar a pasta necessária para as imagens"
+
+#: dccode-user-avatar.php:113
+msgid "User photo: "
+msgstr "Foto do usuário: "
+
+#: dccode-user-avatar.php:120
+msgid "Select an image to be your Avatar. "
+msgstr "Selecione uma imagem para ser o seu Avatar. "
+
+#: dccode-user-avatar.php:121
+msgid "Select Image "
+msgstr "Selecione uma imagem "
